@@ -1,3 +1,3 @@
 # Demo --> https://gavith.github.io/Scroll-Animation/
 
-## I use chatGPT, Google developer tool, claudeAI and some AI tool for develop this.
+## This very simple web project.And I use pure javascript, css and html to make this.
